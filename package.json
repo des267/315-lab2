@@ -1,7 +1,7 @@
 {
   "dependencies": {
   },
-  "name": "@des267/example-315",
+  "name": "example-315",
   "description": "This is the project for lab2 in my CMPT 315 class. Involves the use of JS and NPM.",
   "version": "1.0.2",
   "main": "index.js",
