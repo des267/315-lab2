@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "example-lodash": "^1.0.2"
-  }
+  },
+  "name": "example-315",
+  "description": "This is the project for lab2 in my CMPT 315 class. Involves the use of JS and NPM.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/des267/315lab2.git"
+  },
+  "keywords": [
+    "example-315"
+  ],
+  "author": "Desmond Stular",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/des267/315lab2/issues"
+  },
+  "homepage": "https://github.com/des267/315lab2#readme"
 }
