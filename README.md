@@ -1,7 +1,8 @@
-#
+# Project title
 example-315
+## Description
 This package was created for learning purposes. It is not intended to be used.
-##
+
 Purpose
 **
 _
@@ -13,28 +14,20 @@ not
 _
 int
 Describe the intended intent
-##
-Usage
-**
-Install it:
-**
-`
-npm install des267/example-315
-`
-**
+## Usage
+** Install it: **
 
-Require it:
-**
+`npm install des267/example-315`
+
+** Require it: **
+
 `
 const _ = require('des267/example-315');
 `
 
-**
-Call it:
-**
-`
-const results = _.firstFunction()
-`
+** Call it: **
+
+`const results = _.firstFunction()`
 ##
 Documentation
 The following functions are currently implemented:
